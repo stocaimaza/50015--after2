@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "salsa tomate",
+    "description": "los mas ricos",
+    "price": 150,
+    "img": "Sin imagen",
+    "code": "abc123",
+    "stock": 30
+  },
+  {
+    "id": 2,
+    "title": "arroz",
+    "description": "el que no se pasa",
+    "price": 250,
+    "img": "sin imagen",
+    "code": "abc124",
+    "stock": 30
+  }
+]
